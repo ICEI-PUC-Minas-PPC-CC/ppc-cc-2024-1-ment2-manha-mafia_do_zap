@@ -2,18 +2,21 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`2024 - Semestre 01`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Bruno França
+- Enrico Araújo
+- João Rubens
+- Nicole Castro
+- Rafael Olegário
+- Rodrigo Grande
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Udo Fritzke Junior
 
 # Documentação
 
