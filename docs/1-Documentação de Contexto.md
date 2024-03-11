@@ -4,7 +4,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-As notícias falsas na internet representam um desafio crescente para as pessoas hoje em dia. Com a proliferação das redes sociais e a facilidade de compartilhamento de informações, é cada vez mais difícil discernir entre o que é verdadeiro e o que é falso. Essa disseminação desenfreada de desinformação pode levar a uma série de problemas, desde a polarização das opiniões até impactos diretos na saúde pública e na democracia. As pessoas enfrentam a difícil tarefa de filtrar e verificar a veracidade das informações que encontram online, muitas vezes sendo enganadas por manchetes sensacionalistas ou conteúdo manipulado. Este fenômeno destaca a necessidade urgente de educação digital e de fontes confiáveis de informação para combater essa ameaça à integridade da informação na era digital.
+As notícias falsas na internet representam um desafio crescente para as pessoas hoje em dia. Com a proliferação das redes sociais e a facilidade de compartilhamento de informações, é cada vez mais difícil discernir entre o que é verdadeiro e o que é falso. Essa disseminação desenfreada de desinformação pode levar a uma série de problemas, desde a polarização das opiniões até impactos diretos na saúde pública e na democracia. As pessoas enfrentam a difícil tarefa de filtrar e verificar a veracidade das informações que encontram online, muitas vezes sendo enganadas por manchetes sensacionalistas ou conteúdo manipulado. 
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
