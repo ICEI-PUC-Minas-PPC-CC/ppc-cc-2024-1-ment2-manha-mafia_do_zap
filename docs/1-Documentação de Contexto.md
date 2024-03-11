@@ -29,9 +29,7 @@ A visível dificuldade que pessoas mais velhas têm em analisar a veracidade das
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+O público alvo deste projeto são as pessoas mais vúlneráveis ao perigo representado pelas notícias falsas presentes na internet, cujo real impacto é pouco advertido comparado ao surgente avanço das ferramentas de criação artificial.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
