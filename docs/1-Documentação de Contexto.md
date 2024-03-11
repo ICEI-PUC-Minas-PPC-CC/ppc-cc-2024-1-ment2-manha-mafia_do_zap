@@ -12,10 +12,10 @@ As notícias falsas na internet representam um desafio crescente para as pessoas
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-Nosso objetivo é a **conscientização** do público jovem e idoso acerca das informações que podem ser obtidas na internet.
-O mundo digital, cada vez mais, está poluído com notícias falsas, áudios e vídeos gerados artificialmente a fim de propagar desinformação e discórdia. Embora o problema não possa ser facilmente solucionado, acreditamos que é possível atenua-lo através da conversa e da educação.
+Nosso objetivo é a **conscientização** do público jovem e idoso acerca da veracidade das informações que podem ser obtidas na internet.
 
-Buscamos ensinar aos idosos como identificar conteúdo enganoso e como informar seus amigos acerca do mesmo, diminuindo a disseminação de mentiras. Quanto aos jovens, queremos instrui-los não só a ampliar o combate a desinformação, auxiliando seus parentes idosos na identificação das notícias falsas, mas também conscientiza-los sobre mídia gerada por inteligência artificial e seus perigos, acentuados pela iminente época de eleição.
+Buscamos aumentar a segurança da população local ao promover um projeto educativo com instruções direcionadas aos idosos e rodas de conversa para os jovens.
+Acreditamos que, além de proteger a população, conseguimos melhorar a comunicação entre as gerações através deste trabalho e até mesmo atingir outras regiões, uma vez que os ensinamentos poderão ser repassados através do diálogo.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
