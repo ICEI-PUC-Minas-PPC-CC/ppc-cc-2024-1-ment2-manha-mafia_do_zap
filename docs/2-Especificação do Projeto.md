@@ -35,8 +35,9 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Antonia Marques | Manter-se informada pela internet | Estar atualizada sobre os acontecimentos do mundo. |
+|Antonia Marques | Discernir notícias falsas de verdadeiras | Compartilhar informações. |
+|Antonia Marques | Aprender a identificar notícias falsas | Ajudar outras pessoas a não compartilharem notícias falsas. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
