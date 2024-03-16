@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+No cenário atual, a disseminação descontrolada de notícias falsas na internet emerge como um desafio complexo. A  facilidade de compartilhamento de informações tem alimentado um ambiente propício à propagação de conteúdo enganoso, o qual afeta principalmente jovens e idosos. Diante desse contexto preocupante, surge a necessidade de conscientizar a população sobre tal ameaça, levando informações aos grupos vulneráveis e incentivando a passagem desses conhecimentos para, assim, atingir em maior escala a comunidade.
 
 ## Problema
 
