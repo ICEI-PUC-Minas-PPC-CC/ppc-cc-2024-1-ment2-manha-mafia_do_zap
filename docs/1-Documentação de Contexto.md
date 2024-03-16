@@ -14,7 +14,7 @@ As notícias falsas na internet representam um desafio crescente para as pessoas
 ## Objetivos
 Nosso objetivo é a **conscientização** do público jovem e idoso acerca da veracidade das informações que podem ser obtidas na internet.
 
-Buscamos aumentar a segurança da população local ao promover um projeto educativo com instruções direcionadas aos idosos. Além disso, promover rodas de conversa para os jovens, para que possam ser informados sobre o problema e sejam capazers de repassar seus novos conhecimentos a mais pessoas. Acreditamos que, além de proteger a população, conseguimos melhorar a comunicação entre as gerações através deste trabalho e até mesmo atingir outras regiões, uma vez que os ensinamentos poderão ser repassados através do diálogo.
+Buscamos aumentar a segurança da população local ao promover um projeto educativo com instruções direcionadas aos idosos. Além disso, levar rodas de conversa para os jovens, para que possam ser informados sobre o problema e sejam capazers de repassar seus novos conhecimentos a mais pessoas. Acreditamos que, além de proteger a população, conseguimos melhorar a comunicação entre as gerações através deste trabalho e até mesmo atingir outras regiões, uma vez que os ensinamentos poderão ser repassados através do diálogo.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
