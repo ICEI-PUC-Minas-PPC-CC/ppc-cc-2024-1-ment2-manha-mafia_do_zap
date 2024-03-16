@@ -29,7 +29,7 @@ A dificuldade geral em analisar a veracidade das informações recebidas na inte
 
 ## Público-Alvo
 
-O público alvo deste projeto são as pessoas mais vúlneráveis ao perigo representado pelas notícias falsas presentes na internet, cujo real impacto é pouco advertido comparado ao surgente avanço das ferramentas de criação artificial.
+O público alvo deste projeto são as pessoas mais vúlneráveis ao perigo, como jovens e idosos, representado pelas notícias falsas presentes na internet, cujo real impacto é pouco advertido comparado ao surgente avanço das ferramentas de criação artificial.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
