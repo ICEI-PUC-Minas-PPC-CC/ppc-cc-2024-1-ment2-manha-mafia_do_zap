@@ -13,6 +13,8 @@ Exemplo:
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/antonia.jpg" width="200" height="200"/>|**Idade:** 75 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentada.       |**Atribuições:** Dona de casa. 
 |**Motivações:** Manter-se atualizada sobre os acontecimentos do mundo. Ela usa a internet para se manter informada sobre política, saúde, cultura e outros temas relevantes, e também para compartilhar informações com seus amigos e familiares  |**Frustações:** Dificuldade em discernir notícias falsas de verdadeiras, e devido a isso, teve sua confiança abalada nos veículos de mídia. Além disso, ela percebe que alguns indivíduos usam notícias falsas para manipular outras pessoas, sem se importar com as consequências negativas para a sociedade.   |**Hobbies, história:**  Espera conseguir diferenciar as notícias falsas e voltar a utilizar a internet para compartilhar informações sem medo, e poder também, conscientizar e ajudar outras pessoas.
 
+teste
+
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
