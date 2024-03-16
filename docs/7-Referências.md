@@ -1,17 +1,3 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
-
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
-
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+Idosos são mais propensos a espalhar notícias falsas, diz estudo. Disponível em: https://www.bbc.com/portuguese/brasil-46849533. Acesso em: 12 mar. 2024. Mídias sociais e jornalismo: os perigos da desinformação. Disponível em: https://www2.ufjf.br/noticias/2023/06/30/midias-sociais-e-jornalismo-os-perigos-da-desinformacao/. Acesso em: 12 mar. 2024. MONNERAT, A. Idosos compartilham sete vezes mais notícias falsas do que jovens no Facebook, diz pesquisa. Disponível em: https://www.estadao.com.br/estadao-verifica/idosos-compartilham-sete-vezes-mais-noticias-falsas-do-que-usuarios-mais-jovens-no-facebook-diz-pesquisa/. Acesso em: 12 mar. 2024. Pesquisa revela que 43% dos jovens não sabem checar se uma informação da internet é falsa. Disponível em: https://g1.globo.com/jornal-hoje/noticia/2023/05/03/pesquisa-revela-que-43percent-dos-jovens-nao-sabem-checar-se-uma-informacao-da-internet-e-falsa.ghtml. Acesso em: 12 mar. 2024.
