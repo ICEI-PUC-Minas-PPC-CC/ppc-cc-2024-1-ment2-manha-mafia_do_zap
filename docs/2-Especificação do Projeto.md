@@ -15,7 +15,7 @@ Exemplo:
 
 |**Ricardo Correa**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/antonia.jpg" width="200" height="200"/>|**Idade:** 57 anos. **Naturalidade:** Uberlândia - Minas Gerais. **Ocupação:** Assalariado.       |**Atribuições:** Professor de História.
+<img src="img/ricardo.jpeg/" width="200" height="200"/>|**Idade:** 57 anos. **Naturalidade:** Uberlândia - Minas Gerais. **Ocupação:** Assalariado.       |**Atribuições:** Professor de História.
 |**Motivações:** Utilizar a internet não apenas para se manter informado sobre as más notícias que o mundo se encontra e suas fake news, mas também para encontrar recursos e materiais que enriqueçam suas aulas e estimulem o pensamento crítico em seus alunos. |**Frustações:** enfrenta desafios ao se deparar com notícias falsas e desinformação na internet. Isso o preocupa profundamente, pois ele entende o impacto que isso pode ter na formação de seus alunos e na sociedade em geral. Ele se esforça para filtrar as informações e discernir a verdade, mas às vezes se sente sobrecarregado pela quantidade de conteúdo enganoso disponível online.   |**Hobbies, história:**   Deseja conseguir identificar e combater as notícias falsas com mais eficácia, não apenas para seu próprio benefício, mas também para poder orientar seus alunos a fazerem o mesmo. Ele espera poder utilizar a internet como uma ferramenta confiável para compartilhar informações e promover um ambiente educacional baseado em evidências e conhecimento verificado.
 
 
