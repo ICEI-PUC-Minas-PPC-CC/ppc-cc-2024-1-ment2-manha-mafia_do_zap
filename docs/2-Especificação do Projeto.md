@@ -90,6 +90,6 @@ Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
-###Artefatos para levantamento de dados
+### Artefatos para levantamento de dados
 
 Nesta etapa realizaremos um questionario através do Google Formulários que será distribuído pelo Whatsapp.
