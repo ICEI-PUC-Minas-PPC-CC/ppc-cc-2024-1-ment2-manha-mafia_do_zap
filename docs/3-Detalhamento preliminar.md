@@ -4,6 +4,9 @@ Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização
 
 Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
 
+> Links úteis:
+> - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
+
 # 2) Detalhamento preliminar
 
 Esta seção deverá ser adaptada a proposta do grupo, de forma que:
