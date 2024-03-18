@@ -15,7 +15,7 @@ Exemplo:
 
 |**Ricardo Correa**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="img/ricardo.jpeg/" width="200" height="200"/>|**Idade:** 57 anos. **Naturalidade:** Uberlândia - Minas Gerais. **Ocupação:** Assalariado.       |**Atribuições:** Professor de História.
+<img src="img/ricardo.jpeg/" width="200" height="200"/>|**Idade:** 57 anos. **Naturalidade:** Uberlândia - Minas Gerais. **Ocupação:** Professor de História.       |**Atribuições:** Professor de ensino superior.
 |**Motivações:** Utilizar a internet não apenas para se manter informado sobre as más notícias que o mundo se encontra e suas fake news, mas também para encontrar recursos e materiais que enriqueçam suas aulas e estimulem o pensamento crítico em seus alunos. |**Frustações:** enfrenta desafios ao se deparar com notícias falsas e desinformação na internet. Isso o preocupa profundamente, pois ele entende o impacto que isso pode ter na formação de seus alunos e na sociedade em geral. Ele se esforça para filtrar as informações e discernir a verdade, mas às vezes se sente sobrecarregado pela quantidade de conteúdo enganoso disponível online.   |**Hobbies, história:**   Deseja conseguir identificar e combater as notícias falsas com mais eficácia, não apenas para seu próprio benefício, mas também para poder orientar seus alunos a fazerem o mesmo. Ele espera poder utilizar a internet como uma ferramenta confiável para compartilhar informações e promover um ambiente educacional baseado em evidências e conhecimento verificado.
 
 
@@ -45,6 +45,8 @@ Exemplo:
 |Antonia Marques | Discernir notícias falsas de verdadeiras | Compartilhar informações. |
 |Antonia Marques | Aprender a identificar notícias falsas | Ajudar outras pessoas a não compartilharem notícias falsas. |
 |Ricardo Correa  | Consultar fontes confiáveis ao pesquisar informações online | Garantir que as informações obtidas sejam precisas e confiáveis. |
+|Ricardo Correa  | Criar atividades educativas para ensinar aos alunos como identificar fake news | Capacitar os estudantes a serem críticos e responsáveis na internet |
+|Ricardo Correa  | Compartilhar conteúdo apenas após verificar a sua autenticidade | Contribuir para um ambiente online mais seguro e confiável para alunos   |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
