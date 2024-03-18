@@ -44,6 +44,7 @@ Exemplo:
 |Antonia Marques | Manter-se informada pela internet | Estar atualizada sobre os acontecimentos do mundo. |
 |Antonia Marques | Discernir notícias falsas de verdadeiras | Compartilhar informações. |
 |Antonia Marques | Aprender a identificar notícias falsas | Ajudar outras pessoas a não compartilharem notícias falsas. |
+|Ricardo Correa  | Consultar fontes confiáveis ao pesquisar informações online | Garantir que as informações obtidas sejam precisas e confiáveis. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
