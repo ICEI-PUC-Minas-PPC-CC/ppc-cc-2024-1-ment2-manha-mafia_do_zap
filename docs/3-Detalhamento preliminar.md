@@ -44,7 +44,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 
-Por meio do questionario realizado, foram obtidos os seguintes dados. Cerca de 54.2% dos participantes não sabem reconhecer notícias falsas. Em torno de 91.7% das pessoas acreditam receber muitas notícias falsas. O aplicativo ou website que mais recebem notícias é o Facebook, com 75% dos votos, seguido pelo Whatsapp e Instagram com 54.2% cada.Por volta de 91.7% sabem dizer o impacto que uma notícias falsa pode causar. Cerca de 75% dizem ter interesse em aprender a reconhecer notícias falsas. Por volta de 66.7% dizem ja ter compartilhado uma notícia que depois descobriu ser falsa. Além disso, 87.5% dizem saber o que é Inteligência Artificial e 91.7% acredita que IA's podem criar videos e audios falsos, e 62.5% não conseguem diferenciar um video real de um produzido por IA.
+Por meio do questionario realizado, foram obtidos os seguintes dados. Cerca de 54.2% dos participantes não sabem reconhecer notícias falsas. Em torno de 91.7% das pessoas acreditam receber muitas notícias falsas. O aplicativo ou website que mais recebem notícias é o Facebook, com 75% dos votos, seguido pelo Whatsapp e Instagram com 54.2% cada. Por volta de 91.7% dizem saber o impacto que uma notícias falsa pode causar. Cerca de 75% dizem ter interesse em aprender a reconhecer notícias falsas. Por volta de 66.7% dizem ja ter compartilhado uma notícia que depois descobriu ser falsa. Além disso, 87.5% dizem saber o que é Inteligência Artificial e 91.7% acredita que IA's podem criar videos e audios falsos. Por fim, 62.5% não conseguem diferenciar um video real de um produzido por IA.
 
 
 
