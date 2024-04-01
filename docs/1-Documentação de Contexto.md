@@ -13,7 +13,7 @@ Buscamos aumentar a segurança da população local ao promover um projeto educa
 
 ## Justificativa
 
-A dificuldade geral em analisar a veracidade das informações recebidas na internet e o exponencial aumento da qualidade de ferramentas de criação artificiais nos motivaram a iniciar um projeto que visa levar educação e segurança à população jovem e idosa. Levantamentos de 2023 do Comitê Gestor da Internet no Brasil mostraram que 43% dos jovens não sabem checar se as informações adquiridas são confiáveis e um estudo publicado na revista Science Advances, dirigido por pesquisadores de Princeton e Nova York, revela que pessoas acima dos 65 anos compartilham, em média, 7 vezes mais notícias falsas que adolescentes.
+A dificuldade geral em analisar a veracidade das informações recebidas na internet e o exponencial aumento da qualidade de ferramentas de criação artificiais nos motivaram a iniciar um projeto que visa levar educação e segurança à população jovem e idosa. Levantamentos de 2023 do Comitê Gestor da Internet no Brasil [1] mostraram que 43% dos jovens não sabem checar se as informações adquiridas são confiáveis e um estudo publicado na revista Science Advances [2], dirigido por pesquisadores de Princeton e Nova York, revela que pessoas acima dos 65 anos compartilham, em média, 7 vezes mais notícias falsas que adolescentes.
 
 ## Público-Alvo
 
