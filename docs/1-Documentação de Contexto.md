@@ -14,6 +14,9 @@ Buscamos aumentar a segurança da população local ao promover um projeto educa
 ## Justificativa
 
 A dificuldade geral em analisar a veracidade das informações recebidas na internet e o exponencial aumento da qualidade de ferramentas de criação artificiais nos motivaram a iniciar um projeto que visa levar educação e segurança à população jovem e idosa. Levantamentos de 2023 do Comitê Gestor da Internet no Brasil [1] mostraram que 43% dos jovens não sabem checar se as informações adquiridas são confiáveis e um estudo publicado na revista Science Advances [2], dirigido por pesquisadores de Princeton e Nova York, revela que pessoas acima dos 65 anos compartilham, em média, 7 vezes mais notícias falsas que adolescentes.
+De acordo com um levantamento feito pela Poynter Institute [3], escola de jornalismo e organização de pesquisas americana, 4 em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em fake news ou que seus parentes caiam, chegando a 65% e segundo uma pesquisa feita pelo instituto Locomotiva [4], 90% da população brasileira admite ter acreditado em conteúdos falsos. O levantamento revela que oito em cada dez brasileiros já deram credibilidade a fake news. Mesmo assim, 62% confiam na própria capacidade de diferenciar informações falsas e verdadeiras em um conteúdo.
+
+
 
 ## Público-Alvo
 
