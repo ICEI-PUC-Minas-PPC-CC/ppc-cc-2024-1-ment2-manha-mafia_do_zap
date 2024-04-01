@@ -9,7 +9,7 @@
 
 |**Pedro Oliveira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="img/pedro.jpeg/" width="200" height="200"/>|**Idade:** 17 anos. **Naturalidade:** Petrópolis, Rio de Janeiro. **Ocupação:** Estudante.       |**Atribuições:** Estudante do ensino médio.
+<img src="img/pedro.jpg/" width="200" height="200"/>|**Idade:** 17 anos. **Naturalidade:** Petrópolis, Rio de Janeiro. **Ocupação:** Estudante.       |**Atribuições:** Estudante do ensino médio.
 |**Motivações:**  Terminar o ensino médio com boas notas e garantir sua entrada em uma universidade. Tem interesse em tecnologia e videogames, passando bastante tempo jogando e assistindo a vídeos relacionados a esse tema no YouTube. Além disso, Pedro gosta de passar tempo com sua família e amigos, e está sempre em busca de novas experiências e aventuras. |**Frustações:** Pressão dos estudos e as expectativas da família em relação ao seu desempenho acadêmico. Também se sente sobrecarregado com a quantidade de informações disponíveis nas redes sociais e muitas vezes se sente confuso sobre o que é verdadeiro ou falso. No entanto, não costuma se preocupar muito com o tema das fake news, preferindo focar em outras áreas de sua vida.   |**Hobbies, história:**   Gosta de jogar videogames com seus amigos e assistir a filmes de ação. Também pratica esportes ocasionalmente e gosta de passar tempo ao ar livre sempre que possível. Tem uma personalidade descontraída e gosta de viver o momento, sem se preocupar muito com o futuro. Conhecido por sua simpatia e bom humor, sempre pronto para uma boa risada com os amigos.
 
 
