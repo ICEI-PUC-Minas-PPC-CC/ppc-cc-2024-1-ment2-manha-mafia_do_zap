@@ -9,7 +9,7 @@ Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definid
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
+|Aula 1 | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à Fake News: Definição, características, consequências e exemplos. | 20 minutos | 
 |2| Ferramentas: Como é criado uma fake news e como se proteger.  |20 minutos |
