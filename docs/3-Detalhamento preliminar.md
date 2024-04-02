@@ -39,7 +39,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| "Introdução à Fake News: definição, características, consequências e exemplos. | 20 minutos | 
+|1| Introdução à Fake News: definição, características, consequências e exemplos. | 20 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
