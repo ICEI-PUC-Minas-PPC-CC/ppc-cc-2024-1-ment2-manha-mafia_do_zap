@@ -6,7 +6,7 @@ Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definid
 
 ## Cronograma preliminar
 
-Esperamos disponibilizar essa aula para até 30 pessoas
+Esperamos disponibilizar essa aula para até 30 pessoas, sendo necessario o uso de projetor para apresentação.
 
 |Aula | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
