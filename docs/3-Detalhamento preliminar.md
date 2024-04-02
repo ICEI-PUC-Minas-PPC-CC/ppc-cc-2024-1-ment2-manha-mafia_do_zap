@@ -48,10 +48,11 @@ Por meio do questionario realizado, foram obtidos os seguintes dados. Cerca de 5
 
 Este foi o questionario elaborado com o objetivo de questionar o publico sobre o conhecimento acerca de noticias falsas na internet e o uso da IA para essas práticas: 
 <br>
-<img src="img/questionario 1.jpg/" width="200" height="200"/>
-<img src="img/questionario 2.jpg/" width="200" height="200"/>
-<img src="img/questionario 3.jpg/" width="200" height="200"/>
-<img src="img/questionario 4.jpg/" width="200" height="200"/>
+<br>
+<img src="img/questionario 1.jpg/" width="300" height="200"/>
+<img src="img/questionario 2.jpg/" width="300" height="200"/>
+<img src="img/questionario 3.jpg/" width="300" height="200"/>
+<img src="img/questionario 4.jpg/" width="300" height="200"/>
 
 
 
