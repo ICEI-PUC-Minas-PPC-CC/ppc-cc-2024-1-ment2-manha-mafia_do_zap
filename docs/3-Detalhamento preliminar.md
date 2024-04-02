@@ -11,9 +11,9 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à Fake News: definição, características, consequências e exemplos. | 20 minutos | 
-|2| Ferramentas: como e criado uama fake news e como se proteger.  |20 minutos |
-|3| Tempo para debate,respostas de dúvidas. - |10 minutos|
+|1| Introdução à Fake News: Definição, características, consequências e exemplos. | 20 minutos | 
+|2| Ferramentas: Como é criado uma fake news e como se proteger.  |20 minutos |
+|3| Tempo para debate, respostas de dúvidas. |10 minutos|
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 O questionário obteve 24 respostas no total, e a quantidade de respostas por faixa etária foi de 0 a 20 anos, 6 respostas. 21 a 40 anos, 9 respostas. 41 a 60 anos, 7 respostas e 61 a 90 anos, 2 respostas.
