@@ -6,14 +6,14 @@ Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definid
 
 ## Cronograma preliminar
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
+Por volta de 30 pessoas no máximo.
 
-|Aula 1 | Descrição do conteúdo a ser abordado  | Tempo necessário |
+|Aula | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à Fake News: Definição, características, consequências e exemplos. | 20 minutos | 
-|2| Ferramentas: Como é criado uma fake news e como se proteger.  |20 minutos |
-|3| Tempo para debate, respostas de dúvidas. |10 minutos|
+|Aula 1| Introdução à Fake News: Definição, características, consequências e exemplos. | 20 minutos | 
+|Aula 1| Ferramentas: Como é criado uma fake news e como se proteger.  |20 minutos |
+|Aula 1| Tempo para debate, respostas de dúvidas. |10 minutos|
+
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 O questionário obteve 24 respostas no total, e a quantidade de respostas por faixa etária foi de 0 a 20 anos, 6 respostas. 21 a 40 anos, 9 respostas. 41 a 60 anos, 7 respostas e 61 a 90 anos, 2 respostas.
