@@ -2,9 +2,6 @@
 
 Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definido pela ONU (Organização das Nações Unidas), que busca promover uma educação de qualidade para todos ao longo da vida, independendo de gênero, raça ou idade. Mais especificamente, com o intuito de educar jovens e idosos a se informarem corretamente pela internet e evitar a propagação de desinformação, estamos nos relacionando com o Objetivo 4.7, que visa alcançar uma educação que promova cultura de paz e não violência, sendo importante ressaltar que notícias falsas são grandes fontes de brigas não só no meio virtual, mas também no ambiente familiar.
 
-> Links úteis:
-> - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
-
 # 2) Detalhamento preliminar
 
 ## Cronograma preliminar
