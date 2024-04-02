@@ -6,7 +6,7 @@ Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definid
 
 ## Cronograma preliminar
 
-Por volta de 30 pessoas no máximo.
+Por volta de 30 pessoas por aula.
 
 |Aula | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
