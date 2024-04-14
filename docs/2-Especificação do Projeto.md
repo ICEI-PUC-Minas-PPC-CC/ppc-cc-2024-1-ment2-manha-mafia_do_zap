@@ -42,4 +42,4 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ### Artefatos para levantamento de dados
 
-Nesta etapa realizaremos um questionario através do Google Formulários que será distribuído pelo Whatsapp, visando a coleta de dados de uma pequena amostra de pessoas, para um melhor entendimento de como o problema afeta a população local.
+Nesta etapa realizaremos um questionario através do Google Formulários que será distribuído pelo Whatsapp, visando a coleta de dados de uma pequena amostra de pessoas, para um melhor entendimento de como o problema afeta a população local. Com a ajuda do questionário, poderemos entender melhor o quantos as pessoas acreditam estar expostas à notícias falsas, se sabem do que elas se tratam, onde costumam recebê-las em maior volume e se entendem o perigo que apresentam. Assim, nos direcionando no preparo das aulas.
