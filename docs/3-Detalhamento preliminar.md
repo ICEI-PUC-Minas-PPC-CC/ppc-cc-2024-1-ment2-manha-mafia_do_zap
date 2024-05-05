@@ -10,9 +10,14 @@ Esperamos disponibilizar essa aula para até 30 pessoas, sendo necessario o uso 
 
 |Aula | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|Aula 1| Introdução à Fake News: Definição, características, consequências e exemplos. | 20 minutos | 
-|Aula 1| Ferramentas: Como é criado uma fake news e como se proteger.  |20 minutos |
-|Aula 1| Tempo para debate, respostas de dúvidas. |10 minutos|
+|Aula 1| Introdução - Combatendo as Fake News: Educar para um Uso Responsável da Informação | 5 minutos | 
+|Aula 1| Metimeter - Dinâmica de associação de palavra | 5 minutos |
+|Aula 1| Contextualização - Definição de Fake News e Informações falsas ou enganosas apresentadas como notícias verdadeiras. | 10 minutos |
+|Aula 1| Crescimento do Problema - A disseminação rápida e viral das fake news, Importância da Educação e Necessidade de educar jovens sobre fake news | 10 minutos |
+|Aula 1| Kahoot - Questões para testar capacidade de identificação da sala | 10 minutos |
+|Aula 1| Desafios Atuais - Dificuldade de Discernimento, Impacto na Sociedade e Influência na política, pânico na população e descrédito de veículos de informação. | 5 minutos |
+|Aula 1| Pratica -  Imagens / HTML, DeepVoice e Deep Fake | 10 minutos |
+|Aula 1| Conclusão - Dúvidas | 5 minutos |
 
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
