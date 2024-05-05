@@ -9,7 +9,7 @@ Nosso projeto se encaixa no 4º Obejtivo de Desenvolvimento Sustentável definid
 Esperamos disponibilizar essa aula para até 30 pessoas, sendo necessario o uso de projetor para apresentação.
 
 |Aula | Descrição do conteúdo a ser abordado  | Tempo necessário |
-|------|-----------------------------------------|----|
+|--------|-----------------------------------------|----|
 | Aula 1 | Introdução - Combatendo as Fake News: Educar para um Uso Responsável da Informação | 5 minutos | 
 | Aula 1 | Metimeter - Dinâmica de associação de palavra | 5 minutos |
 | Aula 1 | Contextualização - Definição de Fake News e Informações falsas ou enganosas apresentadas como notícias verdadeiras. | 10 minutos |
