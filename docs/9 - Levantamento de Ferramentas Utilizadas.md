@@ -5,8 +5,6 @@ A tecnologia RVC v2 Disconnected é uma avançada ferramenta de criação de voz
 
 [Link para página da ferramenta](https://colab.research.google.com/drive/1XIPCP9ken63S7M6b5ui1b36Cs17sP-NS)
 
-
-
 ## DeepFaceLab 2.0 (Deep Fake)
 O DeepFaceLab 2.0 é uma ferramenta avançada de criação de deepfakes, que utiliza algoritmos de aprendizado profundo para substituir faces em vídeos de maneira convincente. Ele permite aos usuários trocar rostos em vídeos existentes, criando resultados realistas e de alta qualidade. Esta tecnologia oferece uma ampla gama de opções de personalização e controle sobre o processo de criação de deepfakes, incluindo a capacidade de ajustar a aparência e a sincronização dos rostos substituídos. No entanto, é importante reconhecer que o uso dessa tecnologia também apresenta preocupações éticas e de privacidade, pois pode ser mal utilizada para criar conteúdo enganoso ou prejudicial.
 
