@@ -1,5 +1,5 @@
 # 01 - Aprenda a fazer uma notícia falsa
-<img src="../img/01.png/" width="1280" height="720"/>
+<img src="../img/01.png/" width="854" height="480"/>
 
 [Link para o vídeo](https://www.youtube.com/watch?v=NeBfq5nEWxA&list=PLyRcl7Q37-DWw10DNuAR1GaCfkPpO1ndY&index=10&ab_channel=Nerdologia)
 
