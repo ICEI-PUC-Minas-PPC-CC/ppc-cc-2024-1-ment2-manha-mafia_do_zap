@@ -25,6 +25,7 @@ O uso de contas falsas para espalhar desinformação e manipular a opinião púb
 
 #### Referências
 [Link para o pastebin](https://pastebin.com/ywcigdfi)
+
 https://www.wired.com/2017/02/veles-macedonia-fake-news/
 https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo#.hcRNEk6Ox
 https://www.nbcnews.com/news/world/fake-news-how-partying-macedonian-teen-earns-thousands-publishing-lies-n692451
