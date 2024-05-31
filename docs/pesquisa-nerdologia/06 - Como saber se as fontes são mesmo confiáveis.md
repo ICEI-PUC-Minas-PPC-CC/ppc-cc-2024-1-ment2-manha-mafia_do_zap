@@ -1,5 +1,5 @@
 # 06 - Como saber se as fontes são mesmo confiáveis?
-<img src="../img/05.png/" width="854" height="480"/>
+<img src="../img/06.png/" width="854" height="480"/>
 
 [Link para o vídeo](https://www.youtube.com/watch?v=I49bImxBRAE&list=PLyRcl7Q37-DWw10DNuAR1GaCfkPpO1ndY&index=5&ab_channel=Nerdologia)
 
