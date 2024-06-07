@@ -22,6 +22,11 @@
 ## DeepLab
 - https://www.deepfakevfx.com/downloads/deepfacelab/
 
+## Deepware
+- https://deepware.ai/
+
+## Pegabot
+- https://pegabot.com.br/
 
 # CHECK DE NOTÍCIAS
 ### G1 - Fato ou Fake
@@ -45,7 +50,7 @@
 
 # NOTÍCIAS
 - https://g1.globo.com/sp/santos-regiao/noticia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html
-- https://g1.globo.com/sp/santos-regiao/noticia/2022/06/15/oito-anos-apos-mulher-ser-espancada-ate-a-morte-em-sp-fake-news-segue-fazendo-- vitimas-como-o-turista-queimado-vivo-no-mexico.ghtml
+- https://g1.globo.com/sp/santos-regiao/noticia/2022/06/15/oito-anos-apos-mulher-ser-espancada-ate-a-morte-em-sp-fake-news-segue-fazendo-vitimas-como-o-turista-queimado-vivo-no-mexico.ghtml
 - https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2024/02/27/meu-filho-morreu-de-graca-todo-dia-fico-pensando-nisso-diz-mae-de--jovem-espancado-ate-a-morte-na-grande-sp-apos-fake-news.ghtml
 - https://www.terra.com.br/noticias/jovem-morre-aos-22-anos-apos-ser-vitima-de-noticias-falsas-de-pagina-de-fofoca,452488f71f84d5b4b7423d534ca6bc41hfhpqf3v.html
 
@@ -60,6 +65,32 @@
 ## O dilema das Redes
 - https://www.netflix.com/title/81254224
 
+- Privacidade Hackeada
+https://www.netflix.com/title/80117542
+
+- Momento Waldo
+https://www.netflix.com/watch/70279175
+
+- TCC Jornalismo UNIFAE: Democracia da Desinformação
+https://www.youtube.com/watch?v=xkxMGasD2kY
+
+# VÍDEOS
+### Tom Cruise
+- https://www.tiktok.com/@deeptomcruise/video/6933305746130046214
+
+### This is not Morgan Freeman
+- https://www.tiktok.com/@wildromance10/video/7266665964429708545?q=deepfake&t=1714972746465
+- https://www.youtube.com/watch?v=oxXpB9pSETo
+
+### Lula e Bolsonaro em Japonês
+- https://www.youtube.com/shorts/OeSu6hNgXnM
+
+### Lula e Bolsonaro em Inglês
+- https://www.tiktok.com/@universoai/video/7319204453213736198
+
+### Deep Fake Obama
+- https://www.youtube.com/watch?v=cQ54GDm1eL0
+- https://www.youtube.com/watch?v=AmUC4m6w1wo
 
 # KAHOOT LINKS
 - https://www.e-farsas.com/avo-de-80-anos-faz-esculturas-de-gatos-gigantes-em-croche-sera-verdade.html
