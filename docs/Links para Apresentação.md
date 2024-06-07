@@ -65,14 +65,14 @@
 ## O dilema das Redes
 - https://www.netflix.com/title/81254224
 
-- Privacidade Hackeada
-https://www.netflix.com/title/80117542
+## Privacidade Hackeada
+- https://www.netflix.com/title/80117542
 
-- Momento Waldo
-https://www.netflix.com/watch/70279175
+## Momento Waldo
+- https://www.netflix.com/watch/70279175
 
-- TCC Jornalismo UNIFAE: Democracia da Desinformação
-https://www.youtube.com/watch?v=xkxMGasD2kY
+## TCC Jornalismo UNIFAE: Democracia da Desinformação
+- https://www.youtube.com/watch?v=xkxMGasD2kY
 
 # VÍDEOS
 ### Tom Cruise
