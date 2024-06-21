@@ -55,7 +55,7 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 #### 2° anos
 
 <img src="img/Kahoot2anopodio.png/" width="600" height="600"/>
-<img src="img/Kahoot2anogeral.png/" width="900" height="600"/>
+<img src="img/Kahoot2anogeral.png/" width="900" height="500"/>
 <img src="img/Kahoot2anostats.png/" width="900" height="600"/>
 
 #### 3°anos
