@@ -49,3 +49,8 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 <img src="img/foto19ano3.jpg/" width="800" height="600"/>
 <img src="img/foto20ano3.jpg/" width="800" height="600"/>
 <img src="img/foto21ano3.jpg/" width="800" height="600"/>
+
+
+## Impressões do grupo
+
+**Nicole:** Acredito que alcançamos o objetivo inicial. As palestras que fizemos foram bem proveitosas e os alunos estavam bem engajados. Creio que a maior dificuldade tenha sido entender o nosso público e achar uma maneira de conscientizá-los. 
