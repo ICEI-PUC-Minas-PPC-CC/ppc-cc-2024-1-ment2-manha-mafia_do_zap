@@ -25,11 +25,11 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 #### 2° ano
 
-<img src="img/foto1ano2.jpg/" width="500" height="600"/>
-<img src="img/foto2ano2.jpg/" width="500" height="600"/>
-<img src="img/foto3ano2.jpg/" width="500" height="600"/>
-<img src="img/foto4ano2.jpg/" width="500" height="600"/>
-<img src="img/foto5ano2.jpg/" width="500" height="600"/>
+<img src="img/foto1ano2.jpg/" width="800" height="400"/>
+<img src="img/foto2ano2.jpg/" width="800" height="600"/>
+<img src="img/foto3ano2.jpg/" width="800" height="600"/>
+<img src="img/foto4ano2.jpg/" width="800" height="600"/>
+<img src="img/foto5ano2.jpg/" width="800" height="600"/>
 <img src="img/foto6ano2.jpg/" width="500" height="600"/>
 <img src="img/foto7ano2.jpg/" width="500" height="600"/>
 <img src="img/foto8ano2.jpg/" width="500" height="600"/>
