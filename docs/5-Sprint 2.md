@@ -55,14 +55,14 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 #### 2° anos
 
 <img src="img/Kahoot2anopodio.png/" width="600" height="600"/>
-<img src="img/Kahoot2anogeral.png/" width="800" height="600"/>
-<img src="img/Kahoot2anostats.png/" width="800" height="600"/>
+<img src="img/Kahoot2anogeral.png/" width="900" height="600"/>
+<img src="img/Kahoot2anostats.png/" width="900" height="600"/>
 
 #### 3°anos
 
 <img src="img/Kahoot3anopodio.png/" width="600" height="600"/>
-<img src="img/Kahoot3anogeral.png/" width="800" height="600"/>
-<img src="img/Kahoot3anostats.png/" width="800" height="600"/>
+<img src="img/Kahoot3anogeral.png/" width="900" height="600"/>
+<img src="img/Kahoot3anostats.png/" width="900" height="600"/>
 
 
 
