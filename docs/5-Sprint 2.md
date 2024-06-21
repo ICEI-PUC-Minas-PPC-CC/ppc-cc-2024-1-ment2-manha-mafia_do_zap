@@ -25,27 +25,27 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 #### 2° ano
 
-<img src="img/foto1ano2.jpg/" width="500" height="700"/>
-<img src="img/foto2ano2.jpg/" width="500" height="700"/>
-<img src="img/foto3ano2.jpg/" width="500" height="700"/>
-<img src="img/foto4ano2.jpg/" width="500" height="700"/>
-<img src="img/foto5ano2.jpg/" width="500" height="700"/>
-<img src="img/foto6ano2.jpg/" width="500" height="700"/>
-<img src="img/foto7ano2.jpg/" width="500" height="700"/>
-<img src="img/foto8ano2.jpg/" width="500" height="700"/>
-<img src="img/foto9ano2.jpg/" width="500" height="700"/>
-<img src="img/foto10ano2.jpg/" width="500" height="700"/>
-<img src="img/foto11ano2.jpg/" width="500" height="700"/>
-<img src="img/foto12ano2.jpg/" width="500" height="700"/>]
+<img src="img/foto1ano2.jpg/" width="500" height="600"/>
+<img src="img/foto2ano2.jpg/" width="500" height="600"/>
+<img src="img/foto3ano2.jpg/" width="500" height="600"/>
+<img src="img/foto4ano2.jpg/" width="500" height="600"/>
+<img src="img/foto5ano2.jpg/" width="500" height="600"/>
+<img src="img/foto6ano2.jpg/" width="500" height="600"/>
+<img src="img/foto7ano2.jpg/" width="500" height="600"/>
+<img src="img/foto8ano2.jpg/" width="500" height="600"/>
+<img src="img/foto9ano2.jpg/" width="500" height="600"/>
+<img src="img/foto10ano2.jpg/" width="500" height="600"/>
+<img src="img/foto11ano2.jpg/" width="500" height="600"/>
+<img src="img/foto12ano2.jpg/" width="500" height="600"/>]
 
 #### 3° ano
 
-<img src="img/foto13ano3.jpg/" width="500" height="700"/>
-<img src="img/foto14ano3.jpg/" width="500" height="700"/>
-<img src="img/foto15ano3.jpg/" width="500" height="700"/>
-<img src="img/foto16ano3.jpg/" width="500" height="700"/>
-<img src="img/foto17ano3.jpg/" width="500" height="700"/>
-<img src="img/foto18ano3.jpg/" width="500" height="700"/>
-<img src="img/foto19ano3.jpg/" width="500" height="700"/>
-<img src="img/foto20ano3.jpg/" width="500" height="700"/>
+<img src="img/foto13ano3.jpg/" width="500" height="600"/>
+<img src="img/foto14ano3.jpg/" width="500" height="600"/>
+<img src="img/foto15ano3.jpg/" width="500" height="600"/>
+<img src="img/foto16ano3.jpg/" width="500" height="600"/>
+<img src="img/foto17ano3.jpg/" width="500" height="600"/>
+<img src="img/foto18ano3.jpg/" width="500" height="600"/>
+<img src="img/foto19ano3.jpg/" width="500" height="600"/>
+<img src="img/foto20ano3.jpg/" width="500" height="600"/>
 <img src="img/foto21ano3.jpg/" width="500" height="700"/>
