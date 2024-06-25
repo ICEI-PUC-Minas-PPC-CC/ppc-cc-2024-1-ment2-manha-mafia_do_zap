@@ -1,6 +1,6 @@
 # Sprint 2
 
-A ação foi realizada no Colégio CEPOC, localizado na R. Vivaldi Leite Ribeiro, 863 - Jardim Cascatinha, Poços de Caldas - MG, 37701-219. A palestra começou as 8:00h e foi até as 10:30h.
+A ação foi realizada no Colégio CEPOC, localizado na R. Vivaldi Leite Ribeiro, 863 - Jardim Cascatinha, Poços de Caldas - MG, 37701-219. A palestra começou às 8:00h e foi até às 10:30h.
 
 # Registros Fotográficos
 
