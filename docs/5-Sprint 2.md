@@ -82,6 +82,11 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 **Rodrigo:** A apresentação foi bem tranquila. Todos integrantes do grupo apresentaram muito bem. Os alunos da escola foram bem receptivos e participativos em ambas as apresentações. Tive a impressão que com o pessoal do segundo ano a apresentação fluiu mais enquanto com o pessoal do terceiro ano, houve mais conversas, o que acabou prejudicando um pouco a comunicação. Apenas a parte prática do projeto teve que ser alterada pois a reprodução do som ficou inviabilizada, tinhámos alguns vídeos de exemplos mas não comprometeu a apresentação de maneira alguma. Com tudo, ficou claro para mim a importância de falar sobre a conscientização sobre fake news.
 
 **Rafael:** Objetivo cumprido, a turma foi bem receptiva aderiu bem as dinamicas feitas ao decorrer dos slides , foram participativos no kahoot , sendo assim a apresentação fluiu melhor e ficou mais leve e descontraída.
-    Ao tocar no tema política houve um pouco de polêmica e debate da parte dos alunos , mas a situação foi rapidamnte contornada pelo professor.
+    Ao tocar no tema política houve um pouco de polêmica e debate da parte dos alunos , mas a situação foi rapidamente contornada pelo professor.
     A turma dos segundos anos estavam em menor numero , porem foram mais participativos que os terceiros que por sua vez interagiram mais nos tópicos e fizeram mais perguntas.
     Pra mim foi uma experiêcia nova e significativa interagir com o pessoal do ensino medio , porque podemos passar conhecimento e aprender bastante com eles tambem. 
+
+**Joao Rubens:** Objetivo foi cumprido e mais fácil do que eu tinha imaginado. A turma dos segundos anos estavam em menor quantidade, porém foram as turmas em que os alunos mais participaram e fizeram perguntas. Os terceiros anos tinham mais alunos e foram um pouco difícil de conter, mas com a ajuda do professor foi possível também. Uma diferença notada entre as turmas foi que os do terceiro ano acertaram mais perguntas sobre a diferenciação de qual notícia era fake news ou não, e o Mentimeter teve mais respostas do cunho política. Acho que tivemos sucesso na apresentação, e com a apresentação do jogo do Bad News, conseguimos conscientizar todas essas turmas sobre o quão importante e perigoso discernir entre o que é verdadeiro e o que é falso. Um adendo foi que não conseguimos passar os vídeos que tinhamos deixado preparado pois deu problema no projetor, mas conseguimos continuar a apresentação com esse problema e tudo deu certo. 
+
+
+
