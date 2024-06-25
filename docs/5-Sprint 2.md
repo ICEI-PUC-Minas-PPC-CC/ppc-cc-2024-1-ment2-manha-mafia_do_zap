@@ -37,6 +37,10 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 <img src="img/foto10ano2.jpg/" width="800" height="600"/>
 <img src="img/foto11ano2.jpg/" width="800" height="600"/>
 <img src="img/foto12ano2.jpg/" width="800" height="600"/>
+<img src="img/fotoApresentacao2.jpeg/" width="800" height="600"/>
+<img src="img/fotoalunos2.jpeg/" width="800" height="600"/>
+<img src="img/fototodos2.jpeg/" width="800" height="600"/>
+<img src="img/fototurma2.jpeg/" width="800" height="600"/>
 
 #### 3° ano
 
@@ -49,10 +53,7 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 <img src="img/foto19ano3.jpg/" width="800" height="600"/>
 <img src="img/foto20ano3.jpg/" width="800" height="600"/>
 <img src="img/foto21ano3.jpg/" width="800" height="600"/>
-<img src="img/fotoApresentacao2.jpeg/" width="800" height="600"/>
-<img src="img/fotoalunos2.jpeg/" width="800" height="600"/>
-<img src="img/fototodos2.jpeg/" width="800" height="600"/>
-<img src="img/fototurma2.jpeg/" width="800" height="600"/>
+
 
 ## Kahoot e Mentimeter
 
