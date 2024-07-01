@@ -3,6 +3,12 @@
 A ação foi realizada no Colégio CEPOC, localizado na R. Vivaldi Leite Ribeiro, 863 - Jardim Cascatinha, Poços de Caldas - MG, 37701-219. A palestra começou às 8:00h e foi até às 10:30h.
 
 # Registros Fotográficos
+![Perigos relacionamentos 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/cf8d617b-2298-47f6-a114-d0e7e729f7f3)
+![Perigos relacionamentos 6](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/b0249199-1bde-40f8-9060-dc5ea7609d1a)
+![Perigos relacionamentos 5](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/003c4164-1053-4b7b-9854-ed95a47704cf)
+![Perigos relacionamentos 4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/6c564c5e-f452-4297-b09c-39544cf2082f)
+![Perigos relacionamentos 3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/d9eb7eb1-56b1-4397-94f1-d75a239ff493)
+![Perigos relacionamentos 2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-mafia_do_zap/assets/81312361/cf529699-88c5-46b0-be9d-bb0b3ac9b56d)
 
 ## Listas de chamada
 
